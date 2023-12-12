@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rita</h1>
 <h3 align="center">Eager to make kick-ass interfaces ✨</h3>
 
-- 📫 How to reach me **linkedin.com/in/ritasoarespinto/**
+🌱 I’m currently learning **Full-Stack Web Development with a focus on Front-End**
+
+👯 I’m looking to collaborate on **some new projects for my portfolio**
+
+📫 How to reach me **linkedin.com/in/ritasoarespinto/**
+
+⚡ Fun fact: my first landing page **https://rtulpa.github.io/landing-page-plano-b/**
+
+👩🏻‍🎤 Music lover, ask me about my last favourite music!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,4 +23,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rtulpa&show_icons=true&locale=en&layout=compact" alt="rtulpa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rtulpa&show_icons=true&locale=en" alt="rtulpa" /></p>
+
 
