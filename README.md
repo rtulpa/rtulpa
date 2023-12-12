@@ -9,7 +9,7 @@
 
 🎨 Last Design Project: **https://shorturl.at/drHJ0**
 
-📫 How to reach me **linkedin.com/in/ritasoarespinto/**
+📫 How to reach me **linkedin.com/in/ritasoarespinto/](https://www.linkedin.com/in/ritasoarespinto/**
 
 ⚡ Fun fact: my first landing page **https://rtulpa.github.io/landing-page-plano-b/**
 
