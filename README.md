@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rita</h1>
 <h3 align="center">Eager to make kick-ass interfaces ✨</h3>
 
-🌱 I’m currently learning **Full-Stack Web Development with a focus on Front-End**
+🌱 I’ve recently graduated from a **Full-Stack Web Development at Le Wagon Coding Bootcamp**  
 
 👯 I’m looking to collaborate on **some new projects for my portfolio**
 
@@ -9,7 +9,7 @@
 
 🎨 Last Design Project: **https://shorturl.at/drHJ0**
 
-📫 How to reach me **linkedin.com/in/ritasoarespinto/](https://www.linkedin.com/in/ritasoarespinto/**
+📫 How to reach me **https://www.linkedin.com/in/ritasoarespinto/**
 
 ⚡ Fun fact: my first landing page **https://rtulpa.github.io/landing-page-plano-b/**
 
