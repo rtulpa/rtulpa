@@ -5,6 +5,10 @@
 
 👯 I’m looking to collaborate on **some new projects for my portfolio**
 
+🎛️ Last Front-End Project: **https://www.groovegrid.me/**
+
+🎨 Last Design Project: **https://shorturl.at/drHJ0**
+
 📫 How to reach me **linkedin.com/in/ritasoarespinto/**
 
 ⚡ Fun fact: my first landing page **https://rtulpa.github.io/landing-page-plano-b/**
